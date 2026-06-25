@@ -8,7 +8,7 @@ cask "audistill" do
   homepage "https://audistill.com"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Audistill.app"
 
