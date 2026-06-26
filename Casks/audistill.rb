@@ -1,6 +1,6 @@
 cask "audistill" do
-  version "0.2.1"
-  sha256 "96b16ccdf5c54e855634eb533052b263032d1db5214d79d35ab1278714cd3b98"
+  version "0.3.0"
+  sha256 "e548bdf253d12d02104d838cd4fcee8ecc5a6ddfdfff6d17aadec0623c65f4ae"
 
   url "https://github.com/audistill/audistill/releases/download/v#{version}/Audistill-#{version}-arm64.dmg"
   name "Audistill"
